@@ -1,0 +1,32 @@
+#Container{
+  background: #666;
+  width:800px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 11px
+}
+#Header{
+    background: #CCC;
+    height:300px;
+}
+#ColumnContainer{
+    background: white;
+    height:200px;
+}
+#ColumnLeft{
+    background: #444;
+    width:400px;
+    height:50px;
+    float: left;
+}
+#ColumnRight{
+    background: #333;
+    width:400px;
+    height:50px;
+    float: right;
+}
+#Footer{
+    background: #222;
+    height:50px;
+}
