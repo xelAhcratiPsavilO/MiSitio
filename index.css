@@ -10,10 +10,10 @@
     background: #CCC;
     height:300px;
 }
-#ColumnContainer{
+/* #ColumnContainer{
     background: white;
     height:200px;
-}
+} */
 #ColumnLeft{
     background: #444;
     width:400px;
@@ -29,4 +29,5 @@
 #Footer{
     background: #222;
     height:50px;
+    clear: both;
 }
