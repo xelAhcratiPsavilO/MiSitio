@@ -3,7 +3,7 @@
   font-family: 'Yantramanav', sans-serif;
   background: white;
   width: 1000px;
-  height: 1300px;
+  height: 1350px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 11px;
@@ -16,13 +16,13 @@
   color: white;
   background: #282b34;
   width: 900px;
-  height: 200px;
-  margin-top: 20px;
+  height: 250px;
+  margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
   vertical-align: middle;
-  line-height: 200px;
+  line-height: 50px;
 }
 #ColumnContainer{
   font-size: 120%;
