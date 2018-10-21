@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Yantramanav:100');
 #Container{
-  font-family: helvetica;
+  font-family: 'Yantramanav', sans-serif;
   background: #444;
   width:800px;
   height: auto;
@@ -8,26 +9,26 @@
   margin-top: 11px
 }
 #Header{
-    color: white;
-    background: #222;
-    height:150px;
-    text-align: center;
+  color: white;
+  background: #222;
+  height:150px;
+  text-align: center;
 }
 #ColumnLeft{
-    background: #666;
-    width:400px;
-    height:500px;
-    float: left;
+  background: #666;
+  width:400px;
+  height:500px;
+  float: left;
 }
 #ColumnRight{
-    background: #CCC;
-    width:400px;
-    height:500px;
-    float: right;
+  background: #CCC;
+  width:400px;
+  height:500px;
+  float: right;
 }
 #Footer{
-    color: white;
-    background: #222;
-    height:50px;
-    clear: both;
+  color: white;
+  background: #222;
+  height:50px;
+  clear: both;
 }
