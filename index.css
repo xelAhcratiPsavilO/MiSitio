@@ -1,4 +1,5 @@
 @font-face { font-family: GeoSans; src: url('GeosansLight.ttf'); }
+@font-face { font-family: LouisGeorgeB; src: url('LouisGeorgeCafeBold.ttf'); }
 #Container{
   font-family: GeoSans;
   background: white;
@@ -12,7 +13,7 @@
   border-width: 1px;
 }
 #Header{
-  font-size: 200%;
+  font-size: 150%;
   color: white;
   background: #282b34;
   width: 1100px;
@@ -23,6 +24,10 @@
   text-align: center;
   vertical-align: middle;
   line-height: 25px;
+}
+#Name{
+  font-size: 150%;
+  font-family: LouisGeorgeB;
 }
 #ColumnContainer{
   font-size: 120%;
