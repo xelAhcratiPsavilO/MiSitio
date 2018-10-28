@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Yantramanav:100');
+@font-face { font-family: GeoSans; src: url('GeosansLight.ttf'); }
 #Container{
-  font-family: arial;
+  font-family: GeoSans;
   background: white;
   width: 1150px;
   height: 1450px;
