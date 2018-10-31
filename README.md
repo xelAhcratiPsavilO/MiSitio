@@ -1,4 +1,3 @@
 # MiSitio
 To be edited
-Responsive Website
-
+Responsive Animated Website
