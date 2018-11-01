@@ -1,5 +1,8 @@
 @font-face { font-family: GeoSans; src: url('GeosansLight.ttf'); }
 @font-face { font-family: LouisGeorgeB; src: url('LouisGeorgeCafeBold.ttf'); }
+html{
+  background: #d6d8d8;
+}
 #Container{
   font-family: GeoSans;
   background: white;
