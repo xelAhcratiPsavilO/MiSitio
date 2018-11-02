@@ -7,7 +7,7 @@ html{
   font-family: GeoSans;
   background: white;
   width: 1150px;
-  height: 1950px;
+  height: 1550px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
@@ -46,13 +46,13 @@ mytag{
 #ColumnLeft{
   background: white;
   width: 540px;
-  height: 1500px;
+  height: 1100px;
   float: left;
 }
 #ColumnRight{
   background: white;
   width: 540px;
-  height: 1500px;
+  height: 1100px;
   float: right;
 }
 #Footer{
