@@ -36,8 +36,10 @@ html{
 mytag{
   font-family: LouisGeorgeB;
 }
-#ColumnContainer{
+a{
   font-size: 120%;
+}
+#ColumnContainer{
   background: white;
   width: 1100px;
   margin-left: auto;
