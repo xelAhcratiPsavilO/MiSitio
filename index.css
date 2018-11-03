@@ -39,6 +39,24 @@ mytag{
 a{
   font-size: 120%;
 }
+
+a:link {
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+a:hover {
+    color: #6be3e2;
+}
+
+a:active {
+    text-decoration: underline;
+}
 #ColumnContainer{
   background: white;
   width: 1100px;
