@@ -6,8 +6,8 @@ html{
 #Container{
   font-family: GeoSans;
   background: white;
-  width: 1150px;
-  height: 1550px;
+  width: 1100px;
+  height: 1320px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
@@ -22,7 +22,6 @@ html{
   background: #282b34;
   width: 1100px;
   height: 300px;
-  margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -59,20 +58,20 @@ a:active {
 }
 #ColumnContainer{
   background: white;
-  width: 1100px;
+  width: 1050px;
   margin-left: auto;
   margin-right: auto;
 }
 #ColumnLeft{
   background: white;
-  width: 540px;
-  height: 1100px;
+  width: 510px;
+  height: 900px;
   float: left;
 }
 #ColumnRight{
   background: white;
-  width: 540px;
-  height: 1100px;
+  width: 510px;
+  height: 900px;
   float: right;
 }
 #Footer{
