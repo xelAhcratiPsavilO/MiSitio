@@ -7,7 +7,7 @@ html{
   font-family: GeoSans;
   background: white;
   width: 1100px;
-  height: 1320px;
+  height: 1550px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
@@ -65,13 +65,13 @@ a:active {
 #ColumnLeft{
   background: white;
   width: 510px;
-  height: 900px;
+  height: 1130px;
   float: left;
 }
 #ColumnRight{
   background: white;
   width: 510px;
-  height: 900px;
+  height: 1130px;
   float: right;
 }
 #Footer{
