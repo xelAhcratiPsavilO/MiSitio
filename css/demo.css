@@ -1,0 +1,24 @@
+html{
+  background: #d6d8d8;
+}
+#A{
+  background: white;
+  width: 1100px;
+  position: absolute;
+  left: 50%;
+  margin-left: -550px;
+  +clearix
+}
+/* #B{
+  background: green;
+  width: 100%;
+} */
+#C{
+  background: blue;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 20px;
+  float:left;
+  margin-top: 40%;
+  margin-bottom: 40%;
+}

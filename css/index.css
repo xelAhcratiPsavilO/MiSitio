@@ -6,10 +6,10 @@ html{
 #Container{
   font-family: GeoSans;
   background: white;
+  position: absolute;
+  left: 50%;
   width: 1100px;
-  height: 1550px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: -550px;
   margin-top: 30px;
   margin-bottom: 30px;
   border-color: #CCC;
@@ -56,23 +56,12 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
-#ColumnContainer{
+#Column{
   background: white;
-  width: 1050px;
-  margin-left: auto;
-  margin-right: auto;
-}
-#ColumnLeft{
-  background: white;
-  width: 510px;
-  height: 1130px;
-  float: left;
-}
-#ColumnRight{
-  background: white;
-  width: 510px;
-  height: 1130px;
-  float: right;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 20px;
+  float:left;
 }
 #Footer{
   color: white;
